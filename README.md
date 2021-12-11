@@ -1,5 +1,5 @@
 # Publications 
-+ Pedro Soto, Jun Li, and Xiaodi Fan. Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication. In Proceedings of the 36th International Conference on Machine Learning (IMCL), volume 97 of Proceedings of Machine Learning Research, pages 5937–5945, Long Beach, California, Jun 2019
++ <b>Pedro Soto</b>, Jun Li, and Xiaodi Fan. Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication. In Proceedings of the 36th International Conference on Machine Learning (IMCL), volume 97 of Proceedings of Machine Learning Research, pages 5937–5945, Long Beach, California, Jun 2019
 + Pedro Soto and Jun Li.  Straggler-free coding for concurrent matrix multiplications.  In 2020 IEEE International Symposium on Information Theory (ISIT), pages 233–238, 2020
 + Xiaodi Fan, Pedro Soto, and Jun Li. Leveraging Stragglers in Coded Computing with Heterogeneous Servers. In International Symposium on Quality of Service (IWQoS), Los Angeles, California, 2020
 + Xiaodi Fan, Angel Saldivia, Pedro Soto, and Jun Li. Coded Matrix Chain Multiplication. In2021 IEEE/ACM29th International Symposium on Quality of Service (IWQOS), pages 1–6, 2021
