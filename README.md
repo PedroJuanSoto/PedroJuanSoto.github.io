@@ -6,7 +6,7 @@
 + Pedro Soto, Xiaodi Fan, Angel Saldivia, and Jun Li. Rook Coding for Batch Matrix Multiplication. In IEEE Transactions on Communications (TCOM), Under Submission 2021
 + Josuan Calderon, Sruthi Narayanan, Farid Salazar, and Pedro Soto. A Graduate Perspective of Physics Courses. CRC Press, 2022 Awaiting Publication
 
-#Presentations
+# Presentations
 + Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication, International Conference on Machine Learning, Long Beach, CA, June 2019.
 + Pedro Soto and Jun Li. A Distributed Decoding Algorithm for Coded Matrix Multiplication, International Symposium on Information Theory (poster presentation), Paris, France, July 2019.
 + Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication, CRA-WP Grad Cohort for URMD, Austin, TX, March 2020.
