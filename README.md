@@ -1,4 +1,4 @@
-#Research 
+# Research 
 My research has focused on the use of erasure coding for fault tolerance in distributed computing. 
 What separates my research from traditional methods in the field is that I have focused on encoding the computations themselves as opposed to simply applying erasure coding to data. 
 In particular, my research focuses on performing evaluating functions on the encoded data itself as opposed to decoding, computing, and re-encoding the data.
