@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pedro Juan Soto
-email:
+email: "psoto@gradcenter.cuny.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   I do research in Coding Theory and Distributed Computing. I also do
   research in Computer Algebra, Matrix Algebra, Symbolic-Numerical Algorithms,
   and Information Theory. I also love combinatorics, algebra, and logic.
-twitter_username: username
-github_username: username
+twitter_username: @pedrosotooo
+github_username: PedroJuanSoto
 minimal_mistakes_skin: default
 search: true
 
@@ -62,12 +62,12 @@ author:
   avatar : "/assets/images/picture_of_myself.png"
   bio    : "Researcher in Coding Theory and Distributed Computing."
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/PedroJuanSoto"
     - label: "Orcid"
       icon: "fas fa-fw fa-Orcid"
       url: "https://orcid.org/0000-0002-7120-7362"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PedroJuanSoto"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pedrosotooo"
@@ -77,6 +77,9 @@ author:
 
 footer:
   links:
+    - label: "Orcid"
+      icon: "fas fa-fw fa-Orcid"
+      url: "https://orcid.org/0000-0002-7120-7362"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pedrosotooo"
@@ -86,9 +89,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
-    - label: "Orcid"
-      icon: "fas fa-fw fa-Orcid"
-      url: "https://orcid.org/0000-0002-7120-7362"
 
 defaults:
   # _posts
