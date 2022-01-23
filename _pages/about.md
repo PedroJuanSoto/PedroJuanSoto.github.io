@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Research
+My research has focused on the use of erasure coding for fault tolerance in distributed computing.
+What separates my research from traditional methods in the field is that I have focused on encoding the computations themselves as opposed to simply applying erasure coding to data.
+In particular, my research focuses on performing evaluating functions on the encoded data itself as opposed to decoding, computing, and re-encoding the data.
+This novel and emergent field of research has much potential to impact current distributed systems architecture since much of modern distributed computing involves efficient big data storage and analysis.
+Furthermore, these methods allow for efficient and theoretically optimal fault-tolerant computation on arbitrarily large distributed data-sets.
+The main types of computations I have focused on are matrix multiplication, regression, and feed-forward neural networks.
