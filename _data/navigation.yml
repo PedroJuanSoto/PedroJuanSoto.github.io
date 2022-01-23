@@ -1,6 +1,8 @@
 main:
   # - title: "Research"
   #   url: /research/
+  - title: "Re"
+    url: /Re/
   - title: "Publications"
     url: /publications/
   - title: "Presentations"
@@ -11,5 +13,5 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
