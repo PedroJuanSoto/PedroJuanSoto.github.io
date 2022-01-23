@@ -1,6 +1,6 @@
 ---
-permalink: /resear/
-title: "Resear"
+permalink: /researc/
+title: "Researc"
 author_profile: true
 ---
 
