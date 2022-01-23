@@ -62,30 +62,30 @@ author:
   avatar : "/assets/images/picture_of_myself.png"
   bio    : "Researcher in Coding Theory and Distributed Computing."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Orcid"
+      icon: "fas fa-fw fa-Orcid"
+      url: "https://orcid.org/0000-0002-7120-7362"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pedrosotooo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/PedroJuanSoto"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/pedrosotooo/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pedrosotooo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/PedroJuanSoto"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/pedrosotooo/"
 
 defaults:
   # _posts
