@@ -1,6 +1,7 @@
 ---
 permalink: /presentations/
 title: "Presentations"
+author_profile: true
 ---
 
 + Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication, International Conference on Machine Learning, Long Beach, CA, June 2019.
