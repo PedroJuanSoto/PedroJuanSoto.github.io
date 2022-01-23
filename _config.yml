@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Pedro Juan Soto"
   avatar : "/assets/images/picture_of_myself.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Researcher in Coding Theory and Distributed Computing."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
