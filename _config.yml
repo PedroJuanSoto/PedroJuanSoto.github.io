@@ -15,12 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 title: Pedro Juan Soto
 email:
+    #You can edit this
+    #line in _config.yml. It will appear in your document head meta (for
+  #  Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  I do research in Coding Theory and Distributed Computing. I also do
+  research in Computer Algebra, Matrix Algebra, Symbolic-Numerical Algorithms,
+  and Information Theory. I also love combinatorics, algebra, and logic.
+twitter_username: @pedrosotooo
+github_username: PedroJuanSoto
 minimal_mistakes_skin: default
 search: true
 
@@ -62,15 +65,15 @@ author:
   avatar : "/assets/images/picture_of_myself.png"
   bio    : "Researcher in Coding Theory and Distributed Computing."
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PedroJuanSoto"
     - label: "Orcid"
       icon: "fas fa-fw fa-Orcid"
       url: "https://orcid.org/0000-0002-7120-7362"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pedrosotooo"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/PedroJuanSoto"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
@@ -86,12 +89,15 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
+    - label: "Orcid"
+      icon: "fas fa-fw fa-Orcid"
+      url: "https://orcid.org/0000-0002-7120-7362"
 
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: about
     values:
       layout: single
       author_profile: true
