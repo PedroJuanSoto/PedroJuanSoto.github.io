@@ -14,6 +14,8 @@ The main types of computations I have focused on are matrix multiplication, regr
 + Xiaodi Fan, Angel Saldivia, <b>Pedro Soto</b>, and Jun Li. [*Coded Matrix Chain Multiplication*.](https://ieeexplore.ieee.org/document/9521282) In 2021 IEEE/ACM29th International Symposium on Quality of Service (IWQOS), pages 1–6, 2021
 + <b>Pedro Soto</b>, Xiaodi Fan, Angel Saldivia, and Jun Li. *Rook Coding for Batch Matrix Multiplication*. In IEEE Transactions on Communications (TCOM), Under Submission 2021
 + Josuan Calderon, Sruthi Narayanan, Farid Salazar, and <b>Pedro Soto</b>. *A Graduate Perspective of Physics Courses*. CRC Press, 2022 Awaiting Publication
++ <b>Pedro Soto</b>, Ilia Ilmer, Haibin Guan, Jun Li. [*Lightweight Projective Derivative Codes for Compressed Asynchronous Gradient Descent*.](https://arxiv.org/abs/2201.12990) In Arxiv, Jan 2022
+
 
 # Presentations
 + Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication, International Conference on Machine Learning, Long Beach, CA, June 2019.
