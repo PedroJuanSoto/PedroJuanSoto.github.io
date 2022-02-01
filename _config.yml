@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computer Science Researcher @ CUNY 
+title: Computer Science Researcher @ CUNY
 email: "psoto@gradcenter.cuny.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   I do research in Coding Theory and Distributed Computing. I also do
@@ -80,6 +80,9 @@ footer:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-7120-7362"
+    - label: "Mathoverflow"
+      icon: "fab fa-fw fa-mathoverflow"
+      url: "https://mathoverflow.net/users/157298/pedro-juan-soto"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pedrosotooo"
