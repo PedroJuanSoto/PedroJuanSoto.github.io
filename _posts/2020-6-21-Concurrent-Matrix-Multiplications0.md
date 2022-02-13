@@ -1,5 +1,5 @@
 ---
-title: "Straggler-free Coding for Concurrent Matrix Multiplications"
+title: "Locally Random Padic Alloy Codes with Channel Coding Theorems for Distributed Coded Tensors"
 categories:
   - conference publication
 tags:
