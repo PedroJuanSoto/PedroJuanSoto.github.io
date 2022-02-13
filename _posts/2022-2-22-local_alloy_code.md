@@ -1,5 +1,5 @@
 ---
-title: "Lightweight Projective Derivative Codes for Compressed Asynchronous Gradient Descent"
+title: "Locally Random P-adic Alloy Codes with Channel Coding Theorems for Distributed Coded Tensors"
 categories:
   - preprint
 tags:
