@@ -80,9 +80,6 @@ footer:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-7120-7362"
-    - label: "Semantic Scholar"
-      icon: "fab fa-fw fa-semantic-scholar"
-      url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PedroJuanSoto"
@@ -92,6 +89,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
+    - label: "Semantic Scholar"
+      # icon: "fab fa-fw fa-semantic-scholar"
+      url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
 
 defaults:
   # _posts
