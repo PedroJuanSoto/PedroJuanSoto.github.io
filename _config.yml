@@ -74,6 +74,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
+    - label: "Semantic Scholar"
+      # icon: "fab fa-fw fa-semantic-scholar"
+      url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
 
 footer:
   links:
