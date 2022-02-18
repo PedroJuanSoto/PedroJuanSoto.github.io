@@ -12,3 +12,4 @@ author_profile: true
 + Josuan Calderon, Sruthi Narayanan, Farid Salazar, and <b>Pedro Soto</b>. *A Graduate Perspective of Physics Courses*. CRC Press, 2022 Awaiting Publication
 + <b>Pedro Soto</b>, Ilia Ilmer, Haibin Guan, Jun Li. [*Lightweight Projective Derivative Codes for Compressed Asynchronous Gradient Descent*.](https://arxiv.org/abs/2201.12990) In Arxiv, Jan 2022
 + <b>Pedro Soto</b>, Haibin Guan, Jun Li. [*Locally Random P-adic Alloy Codes with Channel Coding Theorems for Distributed Coded Tensors*.](https://arxiv.org/abs/2202.03469v2) In Arxiv, Feb 2022
++ Mariya Bessonov, Ilia Ilmer, Tatiana Konstantinova, Alexey Ovchinnikov, Gleb Pogudin, <b>Pedro Soto</b>. [*Obtaining weights for Gröbner basis computation in parameter identifiability problems*.](https://arxiv.org/abs/2202.06297) In Arxiv, Feb 2022
