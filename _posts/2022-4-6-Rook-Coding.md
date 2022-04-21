@@ -1,5 +1,5 @@
 ---
-title: "Straggler-free Coding for Concurrent Matrix Multiplications"
+title: "Rook Coding for Batch Matrix Multiplication"
 categories:
   - Journal Publication
 tags:
