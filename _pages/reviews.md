@@ -1,6 +1,6 @@
 ---
-permalink: /reviews/
-title: "Reviews"
+permalink: /Professional Activity/
+title: "Professional Activity"
 author_profile: true
 ---
 
