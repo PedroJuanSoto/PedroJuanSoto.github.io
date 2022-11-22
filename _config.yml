@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Pedro Juan Soto"
   avatar : "/assets/images/picture_of_myself.png"
-  bio    : "Researcher in Coding Theory, Distributed Computing, Algebraic Computing, and Numerical Algorithms."
+  bio    : "Researcher in Coding Theory, Distributed Computing, Information Theory,  Machine Learning, Algebraic Computing, and Numerical Algorithms."
   links:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
