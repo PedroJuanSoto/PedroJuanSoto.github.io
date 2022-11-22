@@ -9,6 +9,8 @@ main:
     url: /presentations/
   - title: "Professional Activity"
     url: /professionalactivity/
+  - title: "CV"
+    url: /assets/cv.pdf
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
