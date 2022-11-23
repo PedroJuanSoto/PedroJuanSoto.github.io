@@ -1,7 +1,7 @@
 ---
 title: "Lightweight Projective Derivative Codes for Compressed Asynchronous Gradient Descent"
 categories:
-  - preprint
+  - conference publication
 tags:
   - gradient descent
   - machine learning
@@ -13,4 +13,4 @@ tags:
 
 Coded distributed computation has become common practice for performing gradient descent on large datasets to mitigate stragglers and other faults. This paper proposes a novel algorithm that encodes the partial derivatives themselves and furthermore optimizes the codes by performing lossy compression on the derivative codewords by maximizing the information contained in the codewords while minimizing the information between the codewords. The utility of this application of coding theory is a geometrical consequence of the observed fact in optimization research that noise is tolerable, sometimes even helpful, in gradient descent based learning algorithms since it helps avoid overfitting and local minima. This stands in contrast with much current conventional work on distributed coded computation which focuses on recovering all of the data from the workers. A second further contribution is that the low-weight nature of the coding scheme allows for asynchronous gradient updates since the code can be iteratively decoded; i.e., a worker's task can immediately be updated into the larger gradient. The directional derivative is always a linear function of the direction vectors; thus, our framework is robust since it can apply linear coding techniques to general machine learning frameworks such as deep neural networks.
 
-<cite><a href="https://arxiv.org/abs/2201.12990">Link to the Publication</a></cite>
+<cite><a href="https://proceedings.mlr.press/v162/soto22a.html">Link to the Publication</a></cite>
