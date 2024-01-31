@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Applied Mathematics Postdoc @ Oxford
-email: "pedro.soto@maths.ox.ac.uk"
+title: Applied Mathematics Postdoc @ VTech
+email: "pedrosoto@vt.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   I do research in Coding Theory, Distributed Computing, Algebraic Computing, and Numerical Algorithms. 
   I also do research in Computer Algebra, Matrix Algebra, Symbolic-Numerical Algorithms,
