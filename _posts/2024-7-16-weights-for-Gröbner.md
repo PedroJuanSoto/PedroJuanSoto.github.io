@@ -1,7 +1,7 @@
 ---
 title: "Faster Groebner bases for Lie derivatives of ODE systems via monomial orderings"
 categories:
-  - conference
+  - conference publication
 tags:
   - symbolic computing
   - symbolic-numeric computing
