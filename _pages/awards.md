@@ -4,7 +4,7 @@ title: "Awards"
 author_profile: true
 ---
 
-# Awards
+
 + Amazon - Virginia Tech Initiative in Efficient and Robust Machine Learning, Co-authored proposal that
 awarded $100,000
 + Best Student Paper (to co-author Yuhka Machina) In International Colloquium On Structural Information
