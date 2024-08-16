@@ -74,8 +74,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=D1Ov9rkAAAAJ&view_op=list_works"
     - label: "Semantic Scholar"
-      # icon: "fab fa-fw fa-semantic-scholar"
+      icon: "fab fa-fw fa-semantic-scholar"
       url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
 
 footer:
@@ -92,8 +95,11 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=D1Ov9rkAAAAJ&view_op=list_works"
     - label: "Semantic Scholar"
-      # icon: "fab fa-fw fa-semantic-scholar"
+      icon: "fab fa-fw fa-semantic-scholar"
       url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
 
 defaults:
