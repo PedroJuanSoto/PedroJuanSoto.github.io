@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Pedro Juan Soto"
   avatar : "/assets/images/picture_of_myself.jpg"
-  bio    : "Researcher in Coding Theory, Distributed Computing, Information Theory,  Machine Learning, Algebraic Computing, and Numerical Algorithms."
+  bio    : "Researcher in in Coding Theory, Distributed Computing, Algebraic Computing, Machine Learning, and Theory of Computation."
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
