@@ -77,10 +77,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
     - label: "Dblp"
-      icon: "fab fa-fw fa-dblp"
+      icon: "fab fa-fw fa-computer"
       url: "https://dblp.org/pid/44/9187.html"
     - label: "Semantic Scholar"
-      icon: "fab fa-fw fa-semantic-scholar"
+      icon: "fab fa-fw fa-book"
       url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
 
 footer:
@@ -101,10 +101,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
     - label: "Dblp"
-      icon: "fab fa-fw fa-dblp"
+      icon: "fab fa-fw fa-computer"
       url: "https://dblp.org/pid/44/9187.html"
     - label: "Semantic Scholar"
-      icon: "fab fa-fw fa-semantic-scholar"
+      icon: "fab fa-fw fa-book"
       url: "https://www.semanticscholar.org/author/Pedro-Juan-Soto/2060206544"
 
 defaults:
