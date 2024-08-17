@@ -16,9 +16,8 @@
 title: Applied Mathematics Postdoc @ VTech
 email: "pedrosoto@vt.edu"
 description: >- # this means to ignore newlines until "baseurl:"
-  I do research in Coding Theory, Distributed Computing, Algebraic Computing, and Numerical Algorithms. 
-  I also do research in Computer Algebra, Matrix Algebra, Symbolic-Numerical Algorithms,
-  and Information Theory. I also love combinatorics, algebra, and logic.
+  I do research in Coding Theory, Distributed Computing, Algebraic Computing, Machine Learning, and Theory of Computation.
+  I also love combinatorics, algebra, and logic.
 twitter_username: pedrosotooo
 github_username: PedroJuanSoto
 minimal_mistakes_skin: default
@@ -62,6 +61,9 @@ author:
   avatar : "/assets/images/picture_of_myself.jpg"
   bio    : "Researcher in Coding Theory, Distributed Computing, Information Theory,  Machine Learning, Algebraic Computing, and Numerical Algorithms."
   links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=D1Ov9rkAAAAJ&view_op=list_works"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-7120-7362"
@@ -74,9 +76,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=D1Ov9rkAAAAJ&view_op=list_works"
     - label: "Dblp"
       icon: "fab fa-fw fa-dblp"
       url: "https://dblp.org/pid/44/9187.html"
@@ -86,6 +85,9 @@ author:
 
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=D1Ov9rkAAAAJ&view_op=list_works"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-7120-7362"
@@ -98,9 +100,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/pedrosotooo/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=D1Ov9rkAAAAJ&view_op=list_works"
     - label: "Dblp"
       icon: "fab fa-fw fa-dblp"
       url: "https://dblp.org/pid/44/9187.html"
